@@ -1,0 +1,551 @@
+(PCB "SAM-LCD"
+ (description
+  (timeStamp "2014 07 29 08 42 00")
+  (program "CAPTURE.EXE" (Version "9.2.446 CIS"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Tuesday, July 29, 2014")
+  (document "E:\\SAM-LCD.DSN")
+  (revision "")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component "CAP NP"
+   (place C20
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029F40)
+     ("Source Package" "CAP NP")
+     (Value 100nF)))
+   (place C21
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029F58)
+     ("Source Package" "CAP NP")
+     (Value 100nF)))
+   (place C22
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029F70)
+     ("Source Package" "CAP NP")
+     (Value 100nF)))
+   (place C14
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029A4C)
+     ("Source Package" "CAP NP")
+     (Value 1uF)))
+   (place C15
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029A62)
+     ("Source Package" "CAP NP")
+     (Value 1uF)))
+   (place C16
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029A78)
+     ("Source Package" "CAP NP")
+     (Value 1uF)))
+   (place C17
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029A8E)
+     ("Source Package" "CAP NP")
+     (Value 100nF)))
+   (place C18
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029F04)
+     ("Source Package" "CAP NP")
+     (Value 100nF)))
+   (place C19
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00029F28)
+     ("Source Package" "CAP NP")
+     (Value 100nF))))
+  (component "CON MC10_0"
+   (place J1
+    (property 
+     (timestamp 000744EB)
+     ("Source Package" "CON MC10_0")
+     (Value "LCD conn."))))
+  (component LED
+   (place D1
+    (property 
+     (timestamp 00074CF1)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D2
+    (property 
+     (timestamp 00074D07)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D3
+    (property 
+     (timestamp 00074D1D)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D4
+    (property 
+     (timestamp 00074D33)
+     ("Source Package" LED)
+     (Value LED)))
+   (place D5
+    (property 
+     (timestamp 00074D49)
+     ("Source Package" LED)
+     (Value LED))))
+  (component "jumper3-pin"
+   (place J2
+    (property 
+     (timestamp 000759B3)
+     ("Source Package" "jumper3-pin")
+     (Value "jumper3-pin"))))
+  (component RESISTOR
+   (place R4
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 000751B0)
+     ("Source Package" RESISTOR)
+     (Value 220E)))
+   (place R5
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 0007519A)
+     ("Source Package" RESISTOR)
+     (Value 220E)))
+   (place R6
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00075184)
+     ("Source Package" RESISTOR)
+     (Value 220E)))
+   (place R7
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 0007516E)
+     ("Source Package" RESISTOR)
+     (Value 220E)))
+   (place R8
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00075158)
+     ("Source Package" RESISTOR)
+     (Value 220E)))
+   (place R13
+    (property 
+     ("PCB Footprint" 1206)
+     (timestamp 0002A99B)
+     ("Source Package" RESISTOR)
+     (Value 100E)))
+   (place R14
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 0002AB0C)
+     ("Source Package" RESISTOR)
+     (Value 10K)))
+   (place R15
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 0002AB22)
+     ("Source Package" RESISTOR)
+     (Value 10K))))
+  (component LCDTM12864A8CCWGWA_0
+   (place LCD1
+    (property 
+     (timestamp 000268D7)
+     ("Source Package" LCDTM12864A8CCWGWA_0)
+     (Value LCDTM12864A8CCWGWA)))))
+ (library
+  (image "CAP NP"
+   (property 
+    (sourcelib E:\\ORCAD\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image RESISTOR
+   (property 
+    (sourcelib E:\\ORCAD\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image "CON MC10_0"
+   (property 
+    (sourcelib "E:\\WORK\\FIBER OPTIC SENSORS\\SCHEMATIC\\EDS R7.DSN"))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname 18)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname 20)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname 17)
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname 19)
+     (pintype 4))))
+  (image "jumper3-pin"
+   (property 
+    (sourcelib E:\\ORCAD\\CAPTURE\\LIBRARY\\MISC.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4))))
+  (image LED
+   (property 
+    (sourcelib E:\\ORCAD\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname ANODE)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname CATHODE)
+     (pintype 4))))
+  (image LCDTM12864A8CCWGWA_0
+   (property 
+    (sourcelib "E:\\EDS 4 LOAD\\NEW SCHEMATIC\\EDS NEW.DSN"))
+   (pin 999 1
+    (property 
+     (pinname CS1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname RES)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname A0)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname /WR)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname /RD)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname D0)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname D1)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname D2)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname D3)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname D4)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname D5)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname D6)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname D7)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname Vdd)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname Vss)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname CAP3P)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname Vout)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname CAPIN)
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname CAP1P)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname CAP2P)
+     (pintype 4)))
+   (pin 999 21
+    (property 
+     (pinname CAP2N)
+     (pintype 4)))
+   (pin 999 22
+    (property 
+     (pinname V4)
+     (pintype 4)))
+   (pin 999 23
+    (property 
+     (pinname V3)
+     (pintype 4)))
+   (pin 999 24
+    (property 
+     (pinname V2)
+     (pintype 4)))
+   (pin 999 25
+    (property 
+     (pinname V1)
+     (pintype 4)))
+   (pin 999 26
+    (property 
+     (pinname V0)
+     (pintype 4)))
+   (pin 999 27
+    (property 
+     (pinname C86)
+     (pintype 4)))
+   (pin 999 28
+    (property 
+     (pinname P/S)
+     (pintype 4)))
+   (pin 999 29
+    (property 
+     (pinname K)
+     (pintype 4)))
+   (pin 999 30
+    (property 
+     (pinname A)
+     (pintype 4)))))
+ (network
+  (net N477757
+   (pins
+     J1-12 LCD1-11))
+  (net N479045
+   (pins
+     J1-18 R5-1))
+  (net N477320
+   (pins
+     J1-9 LCD1-8))
+  (net N478727
+   (pins
+     J1-16 R7-1))
+  (net N477616
+   (pins
+     LCD1-10 J1-11))
+  (net N478026
+   (pins
+     LCD1-13 J1-14))
+  (net N171559
+   (pins
+     LCD1-21 C17-1))
+  (net +3.3V
+    (property 
+     (nettype S))
+   (pins
+     R13-2 D3-1 R14-1 D4-1 D1-1 D2-1 D5-1 LCD1-28 J1-20
+     LCD1-14))
+  (net N476925
+   (pins
+     LCD1-5 J1-6))
+  (net N479100
+   (pins
+     D1-2 R4-2))
+  (net N171126
+   (pins
+     LCD1-16 C14-1))
+  (net N171292
+   (pins
+     LCD1-18 C16-2))
+  (net N171384
+   (pins
+     LCD1-19 C16-1))
+  (net N172322
+   (pins
+     LCD1-24 C20-1))
+  (net N476401
+   (pins
+     LCD1-1 J1-2))
+  (net N477461
+   (pins
+     J1-10 LCD1-9))
+  (net N479884
+   (pins
+     R6-2 D3-2))
+  (net N479120
+   (pins
+     R4-1 J1-19))
+  (net N476660
+   (pins
+     LCD1-3 J1-4))
+  (net N172984
+   (pins
+     LCD1-25 C21-1))
+  (net N172141
+   (pins
+     LCD1-22 C18-1))
+  (net N174745
+   (pins
+     LCD1-27 J2-2))
+  (net N171467
+   (pins
+     LCD1-20 C17-2))
+  (net N477192
+   (pins
+     J1-8 LCD1-7))
+  (net N478967
+   (pins
+     J1-17 R6-1))
+  (net N476779
+   (pins
+     LCD1-4 J1-5))
+  (net N172053
+   (pins
+     C19-2 C20-2 C18-2 C21-2 C22-2))
+  (net N477051
+   (pins
+     J1-7 LCD1-6))
+  (net N477885
+   (pins
+     LCD1-12 J1-13))
+  (net N479022
+   (pins
+     R5-2 D2-2))
+  (net N479927
+   (pins
+     R7-2 D4-2))
+  (net N476523
+   (pins
+     LCD1-2 J1-3))
+  (net N479186
+   (pins
+     R8-1 J1-15))
+  (net N174277
+   (pins
+     LCD1-30 R13-1))
+  (net N173705
+   (pins
+     LCD1-26 C22-1))
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     C15-2 R15-2 LCD1-15 J1-1 LCD1-29 C14-2))
+  (net N172224
+   (pins
+     LCD1-23 C19-1))
+  (net N479971
+   (pins
+     R8-2 D5-2))
+  (net N177181
+   (pins
+     J2-3 R15-1))
+  (net N171209
+   (pins
+     LCD1-17 C15-1))
+  (net N1748601
+   (pins
+     R14-2 J2-1)))
+)

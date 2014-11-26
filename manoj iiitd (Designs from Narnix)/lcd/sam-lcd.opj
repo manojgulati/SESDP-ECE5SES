@@ -1,0 +1,62 @@
+(ExpressProject "sam-lcd"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\sam-lcd.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "7")
+    (OTHER_Part_Value "{Value}")
+    (OTHER_Netlist_File "SAM-LCD.NET")
+    (OTHER_Netlist_File2 "SAM-LCD.CMP")
+    (OTHER_View_Output "TRUE")
+    (OTHER_View_Output2 "FALSE")
+    (OTHER_Formatter "padspcb.dll")
+    (OTHER_PCB_Footprint "{PCB Footprint}")
+    (OTHER_Switch0 "FALSE")
+    (OTHER_Switch1 "FALSE")
+    (OTHER_Switch2 "FALSE")
+    (OTHER_Switch3 "FALSE")
+    (OTHER_Switch4 "FALSE")
+    (OTHER_Switch5 "FALSE")
+    (OTHER_Switch6 "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "E:\SAM-LCD.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tPCB Footprint")
+    (BOM_Include_File "E:\SAM-LCD.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (BOM_View_Output "TRUE"))
+  (Folder "Outputs"
+    (File ".\sam-lcd.net"
+      (Type "Report"))
+    (File ".\sam-lcd.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\manojg\Dropbox\SESDP\manoj iiitd (Designs from Narnix)\lcd\sam-lcd.dsn")
+      (Path "Design Resources"
+         "C:\Users\manojg\Dropbox\SESDP\manoj iiitd (Designs from Narnix)\lcd\sam-lcd.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\manojg\Dropbox\SESDP\manoj iiitd (Designs from Narnix)\lcd\sam-lcd.dsn"
+         "SCHEMATIC1" "lcd"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 385"))
+      (Tab 0)))
+  (MPSSessionName "manojg"))
