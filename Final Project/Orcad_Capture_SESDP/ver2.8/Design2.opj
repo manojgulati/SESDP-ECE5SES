@@ -106,29 +106,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\manojg\Dropbox\SESDP\Project\Orcad_Capture_SESDP\ver2.8\design2.dsn")
-      (Path "Design Resources"
-         "C:\Users\manojg\Dropbox\SESDP\Project\Orcad_Capture_SESDP\ver2.8\design2.dsn"
-         "SCHEMATIC1")
-      (Select "Design Resources"
-         "C:\Users\manojg\Dropbox\SESDP\Project\Orcad_Capture_SESDP\ver2.8\design2.dsn"
-         "SCHEMATIC1" "PAGE1"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 385"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1210 52 476")
-        (Scroll "2319 1733")
-        (Zoom "116")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJG\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER2.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 385"))
+      (Tab 0)))
   (MPSSessionName "manojg"))

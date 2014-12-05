@@ -97,138 +97,17 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\Users\manoj\Dropbox\SESDP\Project\Orcad_Capture_SESDP\ver1.8\design2.dsn")
+         "C:\Users\manojg\Dropbox\SESDP\Final Project\Orcad_Capture_SESDP\ver1.8\design2.dsn")
       (Path "Design Resources"
-         "C:\Users\manoj\Dropbox\SESDP\Project\Orcad_Capture_SESDP\ver1.8\design2.dsn"
+         "C:\Users\manojg\Dropbox\SESDP\Final Project\Orcad_Capture_SESDP\ver1.8\design2.dsn"
          "SCHEMATIC1")
       (Select "Design Resources"
-         "C:\Users\manoj\Dropbox\SESDP\Project\Orcad_Capture_SESDP\ver1.8\design2.dsn"
+         "C:\Users\manojg\Dropbox\SESDP\Final Project\Orcad_Capture_SESDP\ver1.8\design2.dsn"
          "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 385"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1340 182 606")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1337 208 632")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE10"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1129 0 424")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE11"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1155 26 450")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE2"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1181 52 476")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE3"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1207 78 502")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE4"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1233 104 528")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE5"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1259 130 554")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE6"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1285 156 580")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE7"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1311 182 606")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE8"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 208 1337 208 632")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MANOJ\DROPBOX\SESDP\PROJECT\ORCAD_CAPTURE_SESDP\VER1.8\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE9")))
-  (MPSSessionName "manoj"))
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 385"))
+      (Tab 0)))
+  (MPSSessionName "manojg"))
